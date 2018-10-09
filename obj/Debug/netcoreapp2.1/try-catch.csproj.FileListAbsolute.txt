@@ -1,0 +1,11 @@
+/Users/jonathan_edwards/workspace/csharp/try-catch/obj/Debug/netcoreapp2.1/try-catch.csprojAssemblyReference.cache
+/Users/jonathan_edwards/workspace/csharp/try-catch/obj/Debug/netcoreapp2.1/try-catch.csproj.CoreCompileInputs.cache
+/Users/jonathan_edwards/workspace/csharp/try-catch/obj/Debug/netcoreapp2.1/try-catch.AssemblyInfoInputs.cache
+/Users/jonathan_edwards/workspace/csharp/try-catch/obj/Debug/netcoreapp2.1/try-catch.AssemblyInfo.cs
+/Users/jonathan_edwards/workspace/csharp/try-catch/bin/Debug/netcoreapp2.1/try-catch.deps.json
+/Users/jonathan_edwards/workspace/csharp/try-catch/bin/Debug/netcoreapp2.1/try-catch.runtimeconfig.json
+/Users/jonathan_edwards/workspace/csharp/try-catch/bin/Debug/netcoreapp2.1/try-catch.runtimeconfig.dev.json
+/Users/jonathan_edwards/workspace/csharp/try-catch/bin/Debug/netcoreapp2.1/try-catch.dll
+/Users/jonathan_edwards/workspace/csharp/try-catch/bin/Debug/netcoreapp2.1/try-catch.pdb
+/Users/jonathan_edwards/workspace/csharp/try-catch/obj/Debug/netcoreapp2.1/try-catch.dll
+/Users/jonathan_edwards/workspace/csharp/try-catch/obj/Debug/netcoreapp2.1/try-catch.pdb
