@@ -9,13 +9,12 @@ namespace try_catch {
 
         }
         public Contact GetByEmail (string email) {
-            Contact currentContact = new Contact();
             foreach (KeyValuePair<string, Contact> entry in ContactList) {
                 if (entry.Key == email) {
-                    currentContact = entry.Value;
+                    return entry.Value;
                 }
             }
-            return currentContact;
+            return null;
         }
     }
 }

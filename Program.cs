@@ -61,17 +61,17 @@ namespace try_catch
 
 
         //  Search the AddressBook by email and print the information about each Contact
-        try {
         foreach (string email in emails)
         {
+        try {
             Contact contact = addressBook.GetByEmail(email);
             Console.WriteLine("----------------------------");
             Console.WriteLine($"Name: {contact.FullName}");
             Console.WriteLine($"Email: {contact.Email}");
             Console.WriteLine($"Address: {contact.Address}");
-        }
-        } catch {
+        } catch(NullReferenceException) {
             Console.WriteLine("Email address not found");
+        }
         }
     }
 }
